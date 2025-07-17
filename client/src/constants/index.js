@@ -6,7 +6,7 @@ export const myProjects = [
       "Built a full-stack blog platform using React.js, Node.js, Express, MongoDB with secure JWT authentication.",
     subDescription: [
       " Developed an admin dashboard with full CRUD operations for posts, users, and comments. It is protected via role-based access control. ",
-      "Implemented responsive UI with Tailwind CSS, dark mode, like and comment features, and advanced search with filtering, sorting, and pagination."
+      "Implemented responsive UI with Tailwind CSS, dark mode, like and comment features, and advanced search with filtering, sorting, and pagination.",
     ],
     href: "https://mern-blog-gvyf.onrender.com/",
     repo: "https://github.com/AyaanSayed/mern-blog",
@@ -40,9 +40,7 @@ export const myProjects = [
     title: "Spreadsheet Layout",
     description:
       "Static spreadsheet layout with React.js, Tailwind CSS, and TypeScript.",
-    subDescription: [
-      ""
-    ],
+    subDescription: [""],
     href: "https://inscript-intern-assignment.vercel.app/",
     repo: "https://github.com/AyaanSayed/inscript-intern-assignment",
     logo: "",
@@ -65,9 +63,7 @@ export const myProjects = [
     title: "Meme generator",
     description:
       "Meme generator application built with React.js, Tailwind CSS, and TypeScript.",
-    subDescription: [
-      "Allows users to create memes easily."
-    ],
+    subDescription: ["Allows users to create memes easily."],
     href: "https://meme-generator-one-eosin.vercel.app/",
     repo: "https://github.com/AyaanSayed/meme-generator",
     logo: "",
@@ -107,38 +103,16 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "Frontend Developer Intern",
+    job: "Shree AGT Multimedia, Mumbai (On-site)",
+    date: "February 2025 - March 2025",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Developed responsive, user-friendly web interfaces using HTML, CSS, JavaScript, PHP, MySQL, and Laravel.",
+      "Collaborated with cross-functional teams to deliver customized solutions, optimize performance, and enhance user experience.",
+      "Contributed to successful project outcomes by ensuring code quality, responsiveness, and maintainability.",
+      "Earned a Certificate of Completion for demonstrating strong dedication and aptitude, as recognized by the project manager and founder.",
     ],
-  },
-  {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
-    contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
-    ],
-  },
-  {
-    title: "Freelance Developer",
-    job: "Self-Employed",
-    date: "2025-Present",
-    contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
-    ],
-  },
+  }
 ];
 export const reviews = [
   {
