@@ -15,7 +15,7 @@ const Footer = () => {
           </a>
         ))}
       </div>
-      <p>© {new Date().getFullYear()} Ali. All rights reserved.</p>
+      <p>© {new Date().getFullYear()} Ayaan. All rights reserved.</p>
     </section>
   );
 };
